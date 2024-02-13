@@ -40,7 +40,7 @@ where monitoring and logs drive the maintenance phase of the software lifecycle.
 
 #
 ## CONS:
-while user-centric and iterative, this approach has some conceptual shortcomings that could be addressed:
+While being user-centric and iterative, this approach has some conceptual shortcomings that could be addressed:
 
 ### Optimism Bias in Feedback: 
 Relying heavily on user feedback assumes users can articulate their needs and that their feedback will always 
