@@ -13,6 +13,10 @@ waterfall method.
 Software development is an iterative process, where initial imperfections are expected. 
 This mindset can encourage a culture of continuous improvement and innovation.
 
+### Experimentation and Validation: 
+C3B embraces the scientific method, stressing that hypothesis validation through experimentation 
+is key to product evolution.
+
 ### Feedback Loop: 
 C3B places significant importance on feedback at various stages, indicating a user-centric development approach. 
 This is a strong conceptual foundation as it underlines the importance of real-world use and user satisfaction 
@@ -22,14 +26,6 @@ in shaping the product. The user's experience and feedback are central to the de
 The use of common boards across different domains (Business, Architecture, etc.) follows an integrated 
 approach where cross-functional teams collaborate closely, sharing insights and decisions.
 
-### Logs for Bug Fixes: 
-Using logs specifically for bug fixes follows a proactive approach to quality assurance, 
-where monitoring and logs drive the maintenance phase of the software lifecycle.
-
-### Experimentation and Validation: 
-C3B embraces the scientific method, stressing that hypothesis validation through experimentation 
-is key to product evolution.
-
 ### Agility and Responsiveness: 
 C3B doubles down on agile methodology, where the product is developed, tested, and improved 
 in cycles, adapting to new information and changing requirements.
@@ -37,6 +33,10 @@ in cycles, adapting to new information and changing requirements.
 ### Candid Communication: 
 C3B attempts to promote a candid and open organizational culture that isn't afraid to recognize 
 and address shortcomings in the product.
+
+### Logs for Bug Fixes: 
+Using logs specifically for bug fixes follows a proactive approach to quality assurance, 
+where monitoring and logs drive the maintenance phase of the software lifecycle.
 
 #
 ## CONS:
@@ -84,8 +84,8 @@ By focusing on reactive feedback and fixes, there may be a lack of proactive inn
 of future trends and user needs.
 
 ### Data Privacy: 
-There's no explicit mention of handling data privacy and security, which are critical when dealing 
-with user data and logs.
+Does not explicitly take data privacy and security into consideration, which are critical when dealing with 
+user data and logs.
 
 To address these shortcomings, one could incorporate a more balanced scorecard approach that weighs user feedback 
 against other key performance indicators, including business viability, technical feasibility, and user satisfaction. 
