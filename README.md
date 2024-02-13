@@ -18,7 +18,7 @@ C3B embraces the scientific method, stressing that hypothesis validation through
 is key to product evolution.
 
 ### Feedback Loop: 
-C3B places significant importance on feedback at various stages, indicating a user-centric development approach. 
+C3B places significant importance on feedback at various stages to cater to a user-centric development approach. 
 This is a strong conceptual foundation as it underlines the importance of real-world use and user satisfaction 
 in shaping the product. The user's experience and feedback are central to the development process.
 
@@ -68,7 +68,7 @@ Constantly asking users for feedback can lead to feedback fatigue, where users b
 provide insights over time.
 
 ### Misalignment With Business Goals: 
-The model focuses heavily on user feedback without clear alignment to business goals and strategy. 
+C3B focuses heavily on user feedback without clear alignment to business goals and strategy. 
 This could potentially lead to a product that users like but is not commercially viable.
 
 ### Resource Intensity: 
@@ -84,7 +84,7 @@ By focusing on reactive feedback and fixes, there may be a lack of proactive inn
 of future trends and user needs.
 
 ### Data Privacy: 
-Does not explicitly take data privacy and security into consideration, which are critical when dealing with 
+C3B does not explicitly take data privacy and security into consideration, which are critical when dealing with 
 user data and logs.
 
 To address these shortcomings, one could incorporate a more balanced scorecard approach that weighs user feedback 
